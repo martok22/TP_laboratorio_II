@@ -1,0 +1,5 @@
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Archivo\obj\Debug\Archivo.csprojResolveAssemblyReference.cache
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Archivo\bin\Debug\Archivo.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Archivo\bin\Debug\Archivo.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Archivo\obj\Debug\Archivo.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Archivo\obj\Debug\Archivo.pdb

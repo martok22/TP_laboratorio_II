@@ -1,0 +1,9 @@
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\obj\Debug\Clases Abstractas.csprojResolveAssemblyReference.cache
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Clases Ab.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Clases Ab.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Excepciones.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Excepciones.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\obj\Debug\Clases Ab.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\obj\Debug\Clases Ab.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Archivo.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Clases Ab\bin\Debug\Archivo.pdb
