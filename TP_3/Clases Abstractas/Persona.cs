@@ -12,9 +12,14 @@ namespace EntidadesAbstractas
         {
             private string _apellido;
 
-        /// <summary>
-        /// Si no es null, asigna el valor al atributo
-        /// </summary>
+            /// <summary>
+            /// Llama al método ValidarNombreApellido pasandole el parametro 'value'. El 
+            /// método ValidarNombreApellido retorna la misma cadena string si no posee ningún 
+            /// caracter alfanumérico en su composición. Retorna null caso contrario.
+            /// 
+            /// La propiedad Apellido asigna 'value' al atributo si ValidarNombreApellido no 
+            /// devuelve null. Caso contrario no asigna.
+            /// </summary>
             public string Apellido
             {
                 set
@@ -39,9 +44,9 @@ namespace EntidadesAbstractas
             }
             private string _nombre;
 
-        /// <summary>
-        /// Si no es null, asigna el valor al atributo
-        /// </summary>
+            /// <summary>
+            /// Si no es null, asigna el valor al atributo
+            /// </summary>
             public string Nombre
             {
                 set
@@ -51,7 +56,9 @@ namespace EntidadesAbstractas
                 }
                 get { return this._nombre; }
             }
-
+            /// <summary>
+            /// Asigna al atributo _dni el retorno de ValidarDni.
+            /// </summary>
             public string StringToDni
             {
                 set
@@ -80,7 +87,11 @@ namespace EntidadesAbstractas
             {
                 this.StringToDni = dni;
             }
-
+            
+            /// <summary>
+            /// Muestra por consola el valor de las propiedades Nombre, Apellido, Nacionalidad 
+            /// según el ejemplo de consola específicado en el enunciado.
+            /// </summary>
             public override string ToString()
             {
                 StringBuilder bloque = new StringBuilder();
@@ -91,8 +102,8 @@ namespace EntidadesAbstractas
             }
 
             /// <summary>
-            /// Retorna dni si fue validado. Caso contrario lanza excepcion de tipo nacionalidad invalida
-            /// o dni invalido.
+            /// Retorna dni como entero si es correcto, caso contrario lanza excepción de NacionalidadInvalida
+            /// o DniInvalido.
             /// </summary>
             /// <param name="nacionalidad"></param>
             /// <param name="dato"></param>
@@ -116,13 +127,13 @@ namespace EntidadesAbstractas
                 throw new DniInvalidoException();
             }
 
-        /// <summary>
-        /// Parsea el dni a entero con int.TryParse, y llama al metodo ValidarDni con el entero parseado. 
-        /// En caso de fallar el TryParse, ValidarDni con entero tirará error de tipo dni invalido.
-        /// </summary>
-        /// <param name="nacionalidad"></param>
-        /// <param name="dato"></param>
-        /// <returns></returns>
+            /// <summary>
+            /// Parsea el dni a entero con int.TryParse, y llama al metodo ValidarDni con el entero parseado. 
+            /// En caso de fallar el TryParse, ValidarDni con entero tirará error de tipo dni invalido.
+            /// </summary>
+            /// <param name="nacionalidad"></param>
+            /// <param name="dato"></param>
+            /// <returns></returns>
 
             private int ValidarDni(ENacionalidad nacionalidad, string dato)
             {
@@ -131,19 +142,18 @@ namespace EntidadesAbstractas
                 datoParseado = ValidarDni(nacionalidad, datoParseado);
                 return datoParseado;
             }
-        /// <summary>
-        /// Itera sobre una string no nula, devuelve la misma si posee solo caracteres o null caso contrario.
-        /// No chequea que reciba null.
-        /// </summary>
-        /// <param name="dato"></param>
-        /// <returns></returns>
+            /// <summary>
+            /// Itera sobre una string no nula, devuelve la misma string si posee solo caracteres 
+            /// no-alfanuméricos. Retorna null caso contrario. No chequea que reciba null.
+            /// </summary>
+            /// <param name="dato"></param>
+            /// <returns></returns>
 
             private string ValidarNombreApellido(string dato)
             {
-                //if(dato != null)
-                    foreach (Char c in dato)
-                        if (!Char.IsLetter(c))
-                            return null;
+                foreach (Char c in dato)
+                     if (!Char.IsLetter(c))
+                         return null;
                 return dato;
             }
 
