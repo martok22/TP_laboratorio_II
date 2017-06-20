@@ -1,5 +1,0 @@
-D:\Marto\Git\LaboratorioII\TP_N°1\Clases\bin\Debug\Clases.dll
-D:\Marto\Git\LaboratorioII\TP_N°1\Clases\bin\Debug\Clases.pdb
-D:\Marto\Git\LaboratorioII\TP_N°1\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
-D:\Marto\Git\LaboratorioII\TP_N°1\Clases\obj\Debug\Clases.dll
-D:\Marto\Git\LaboratorioII\TP_N°1\Clases\obj\Debug\Clases.pdb

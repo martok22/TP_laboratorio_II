@@ -1,5 +1,0 @@
-D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Excepciones\bin\Debug\Excepciones.dll
-D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Excepciones\bin\Debug\Excepciones.pdb
-D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
-D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Excepciones\obj\Debug\Excepciones.dll
-D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Excepciones\obj\Debug\Excepciones.pdb
