@@ -1,0 +1,28 @@
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Consola.exe.config
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Consola.exe
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Consola.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Archivo.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Clases Ab.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\ClassLibrary1.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Excepciones.dll
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Archivo.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Clases Ab.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\ClassLibrary1.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\bin\Debug\Excepciones.pdb
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\obj\Debug\Consola.exe
+D:\Martin\Repos Manuales\laboratorioII-master\laboratorioII-master\TP_3\Consola\obj\Debug\Consola.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Consola.exe.config
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Consola.exe
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Consola.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Archivo.dll
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Clases Ab.dll
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\ClassLibrary1.dll
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Excepciones.dll
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Archivo.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Clases Ab.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\ClassLibrary1.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\bin\Debug\Excepciones.pdb
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\obj\Debug\Consola.exe
+D:\Downloads\TP_3_Completo\TP_3_Completo\TP_3\Consola\obj\Debug\Consola.pdb
