@@ -9,16 +9,16 @@ namespace Archivos
 {
     public class Texto : IArchivo<string>
     {
-        private string _archivoLoc;
+        private string _archivo;
 
         public Texto(string archivo)
         {
-            this._archivoLoc = archivo;
+            this._archivo = archivo;
         }
 
         public bool guardar(string datos)
         {
-            using (StreamWriter escritor = File.AppendText(this._archivoLoc))
+            using (StreamWriter escritor = File.AppendText(this._archivo))
             {
                 escritor.WriteLine(datos);
                 return true;
@@ -28,7 +28,7 @@ namespace Archivos
         public bool leer(out List<string> datos)
         {
             datos = new List<string>();
-            using (StreamReader lector = new StreamReader(this._archivoLoc))
+            using (StreamReader lector = new StreamReader(this._archivo))
             {
                 string linea = "a";
                 while (linea != null)

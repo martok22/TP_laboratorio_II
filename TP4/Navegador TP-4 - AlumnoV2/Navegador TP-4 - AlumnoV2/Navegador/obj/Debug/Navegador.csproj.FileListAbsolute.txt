@@ -48,3 +48,9 @@ D:\Martin\Repos Manuales\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2
 D:\Martin\Repos Manuales\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
 D:\Martin\Repos Manuales\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
 D:\Martin\Repos Manuales\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csprojResolveAssemblyReference.cache
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.frmHistorial.resources
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.frmWebBrowser.resources
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.csproj.GenerateResource.Cache
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.exe
+D:\Git.TPS\TP4\Navegador TP-4 - AlumnoV2\Navegador TP-4 - AlumnoV2\Navegador\obj\Debug\Navegador.pdb
